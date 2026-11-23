@@ -1,0 +1,1 @@
+{"description":"Meme Sprint 3: AI Agent Goes Rogue — a meme image entry for make.fun","devDependencies":{"tsx":"^4.19.2"},"license":"MIT","name":"meme-sprint-3-ai-agent-goes-rogue","scripts":{"build":"tsx main.ts","start":"tsx main.ts"},"type":"module","version":"1.0.0"}
